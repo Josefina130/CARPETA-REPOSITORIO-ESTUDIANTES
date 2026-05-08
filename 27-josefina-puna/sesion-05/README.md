@@ -31,4 +31,4 @@ Sintaxis: scale(x,y);
 ### Expresión booleana  
 Cualquier enunciado, dato o instrucción que, al ser evaluado, solo puede arrojar uno o dos valores posibles: verdadero o falso.  
 ### Sentencia Condicional  
-***If - else if - else***: **If** (condición) {ejecuta este código si es true}. **else if** (condición 2) ejecuta este código si es true. **else** ejecuta ese c+odigo si ambas condiciones son falsas.
+***If - else if - else***: **If** (condición) {ejecuta este código si es true}. **else if** (condición 2) {ejecuta este código si es true}. **else** {ejecuta ese c+odigo si ambas condiciones son falsas}.
